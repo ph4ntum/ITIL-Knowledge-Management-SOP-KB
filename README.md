@@ -42,19 +42,19 @@ Get-ChildItem "C:\Program Files\7-Zip"
 ```
 ---
 
-📦 Parte 2: Artículo de Base de Conocimiento (KB)
+## 📦 Parte 2: Artículo de Base de Conocimiento (KB)
 Código: KB-USER-042
 
 Audiencia: Personal Administrativo / Usuarios Finales de la Empresa
 
 Aplicación: 7-Zip (Compresor de Archivos Oficial)
 
-📢 ¡Ya tienes disponible 7-Zip en tu equipo!
+## 📢 ¡Ya tienes disponible 7-Zip en tu equipo!
 Desde el departamento de Soporte TI hemos instalado de forma automática en tu ordenador la herramienta 7-Zip. Este programa te permitirá reducir el tamaño de tus archivos para enviarlos por correo más fácilmente y abrir carpetas comprimidas que te envíen nuestros clientes.
 
 Aquí tienes una guía rápida de uso en menos de 1 minuto:
 
-1. Cómo comprimir una carpeta para enviarla por correo
+## 1. Cómo comprimir una carpeta para enviarla por correo
 Si tienes archivos que pesan mucho y la plataforma de correo no te deja adjuntarlos:
 
 Haz clic derecho sobre la carpeta o archivo que quieras achicar.
@@ -65,20 +65,20 @@ En el menú flotante, busca la opción 7-Zip y luego haz clic en "Añadir a 'Nom
 
 🔒 Tip de Seguridad: Si necesitas enviar datos sensibles (DNI, contratos, nóminas), haz clic en "Añadir al archivo..." y escribe una contraseña en la sección derecha antes de aceptar.
 
-2. Cómo abrir (descomprimir) un archivo que te ha enviado un cliente
+## 2. Cómo abrir (descomprimir) un archivo que te ha enviado un cliente
 Si recibes un correo con un archivo que termina en .zip o .rar:
 
-Haz clic derecho sobre el archivo comprimido que has descargado.
+1. Haz clic derecho sobre el archivo comprimido que has descargado.
 
-Selecciona la opción 7-Zip en el menú.
+2. Selecciona la opción 7-Zip en el menú.
 
-Haz clic en "Extraer aquí" (Extract here).
+3. Haz clic en "Extraer aquí" (Extract here).
 
-El contenido se guardará automáticamente en una carpeta normal en ese mismo sitio para que puedas abrir los documentos sin problemas.
+4. El contenido se guardará automáticamente en una carpeta normal en ese mismo sitio para que puedas abrir los documentos sin problemas.
 
-🎯 Habilidades Consolidadas en este Laboratorio
-Gobernanza TI bajo ITIL: Aplicación práctica del proceso de Gestión del Conocimiento (Knowledge Management), asegurando que el conocimiento técnico no se pierda y sea accesible.
+## 🎯 Habilidades Consolidadas en este Laboratorio
+1. Gobernanza TI bajo ITIL: Aplicación práctica del proceso de Gestión del Conocimiento (Knowledge Management), asegurando que el conocimiento técnico no se pierda y sea accesible.
 
-Redacción Técnica de TI (Technical Writing): Capacidad para estructurar un Procedimiento Operativo Estándar (SOP) riguroso, indexado y con control de excepciones para equipos de ingeniería.
+2. Redacción Técnica de TI (Technical Writing): Capacidad para estructurar un Procedimiento Operativo Estándar (SOP) riguroso, indexado y con control de excepciones para equipos de ingeniería.
 
-Comunicación Orientada al Cliente (User-Centricity): Habilidad para traducir conceptos técnicos complejos (líneas de comandos, hilos de fondo, switches lógicos) en instrucciones amigables, sencillas y útiles para usuarios de negocio, reduciendo el volumen de tickets repetitivos en el Service Desk.
+3. Comunicación Orientada al Cliente (User-Centricity): Habilidad para traducir conceptos técnicos complejos (líneas de comandos, hilos de fondo, switches lógicos) en instrucciones amigables, sencillas y útiles para usuarios de negocio, reduciendo el volumen de tickets repetitivos en el Service Desk.
